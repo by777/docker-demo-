@@ -207,3 +207,22 @@ docker-compose up -d
 # 假设项目要重新部署可
 docker-compose up --build
 ```
+# swarm
+    Docker 的集群管理工具。它将 Docker 主机池转变为单个虚拟 Docker 主机。 Docker Swarm 提供了标准的 Docker API，所有任何已经与 Docker 守护程序通信的工具都可以使用 Swarm 轻松地扩展到多个主机。
+
+# docker stack
+```bash
+# 单机
+docker-compose up -d wordpress.yml
+# 集群
+docker stack deploy wordpress.yml
+
+```
+# docker secert
+    配置密码，证书
+# docker config
+```shell
+docker config --help
+```
+
+# 云原生

@@ -12,4 +12,6 @@
 
 https://www.bilibili.com/video/BV1og4y1q7M4
 
+https://www.bilibili.com/video/BV1kv411q7Qc
+
 狂神说docker基础与进阶动手敲代码记录。
